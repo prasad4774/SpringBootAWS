@@ -11,7 +11,7 @@
 	<groupId>com.in</groupId>
 	<artifactId>SpringBoot_AWS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	 <packaging>jar</packaging>
 	<name>SpringBoot_AWS</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -72,6 +72,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		
+		
 	</build>
 
 </project>

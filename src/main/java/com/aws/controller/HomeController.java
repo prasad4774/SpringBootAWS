@@ -24,6 +24,7 @@ public class HomeController {
 	@GetMapping("/")
 	public String getStudent()
 	{
+//		fhgjv jb
 		
 		return "s";
 		
